@@ -19,3 +19,7 @@ img{
  /* width: 110px; */
  height: 100px;
 }
+
+.visited{
+    background: antiquewhite;
+}
